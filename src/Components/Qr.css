@@ -1,0 +1,33 @@
+.container{
+    max-width: 100%;
+    min-width: 100%;
+    max-height: 100%;
+    min-height: 100%;
+    background-color:  hsl(212, 45%, 89%);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 20px;
+    margin: 30px;
+}
+
+.scan{
+    width: 260px;
+    background-color: hsl(0, 0%, 100%);
+    padding: 20px;
+    border-radius: 20px;
+    height: 400px;
+    margin: 60px;
+    text-align: center;   
+}
+.scan img{
+    border-radius: 20px;
+    width: 250px;
+    height: 250px; 
+}
+img{
+    
+    padding: 5px;
+    width: 250px;
+    height: 300px;
+}

@@ -1,0 +1,90 @@
+.content{
+    max-width: 100%;
+    min-width: 100%;
+    max-height: 100%;
+    min-height: 100%;
+    background-color: hsl(217, 54%, 11%);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 20px;
+    margin: 30px;
+}
+
+.objects{
+    width: 260px;
+    background-color:hsl(216, 50%, 16%);
+    padding: 20px;
+    border-radius: 20px;
+    height: 500px;
+    margin: 60px;
+    text-align: left;   
+}
+.objects img{
+    border-radius: 20px;
+    width: 250px;
+    height: 250px; 
+}
+img{
+    
+    padding: 5px;
+    width: 250px;
+    height: 300px;
+    margin-right: 10px;
+}
+.avatar img{
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+    margin-top: 10px;
+    border: 1px solid #ddd;
+    
+}
+.numb{
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+.days{
+    color: hsl(215, 51%, 70%);
+    
+}
+.days img{
+    width: 15px;
+    height: 15px;
+    
+}
+.avatar{
+        display: flex;
+        justify-content: space-between;
+        padding: 10px;
+        border-top: 2px  hsl(215, 32%, 27%) solid;
+       
+}
+.currency{
+    color: hsl(178, 100%, 50%);
+    
+    height: 20px;
+    width: 120px;
+
+    
+}
+.currency img{
+    width: 15px;
+    height: 15px;
+    
+}
+
+p{
+    color: hsl(215, 51%, 70%);
+}
+h4{
+    color: hsl(0, 0%, 100%);
+}
+.Sp{
+    color: hsl(0, 0%, 100%);
+}
+.details{
+    align-items: center;
+}
